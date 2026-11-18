@@ -1,4 +1,4 @@
-# eCLASH: Supporting Analysis of Small RNA-seq and LACE-seq Data
+# eCLASH: Supporting Analysis of Small RNA-seq Data
 
 This repository contains scripts for processing MIWI-associated small RNA-seq data.
 
